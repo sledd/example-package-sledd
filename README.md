@@ -1,7 +1,7 @@
 # example-package-sledd
 intersect bootcamp tutorial for creating a package
 
-# Example Package YOUR USERNAME HERE
+# Example Package sledd
 
 `example-package-sledd` is a simple Python library that contains a single function for rescaling arrays.
 
